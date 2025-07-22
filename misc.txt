@@ -1,0 +1,9 @@
+
+
+Java SDK 8
+https://cfdownload.adobe.com/pub/adobe/coldfusion/java/java8/java8u461/jdk/jdk-8u461-windows-x64.exe
+
+VisualBasic 6.0 Runtime Plus 2.2
+https://nchc.dl.sourceforge.net/project/vb6extendedruntime/Visual%20Basic%206.0%20Runtime%20Plus%202.2.zip?viasf=1
+
+
